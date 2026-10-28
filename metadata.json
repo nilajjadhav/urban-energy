@@ -1,0 +1,6 @@
+{
+  "name": "Urban Energy Intelligence — Mira-Bhayandar Grid OS",
+  "description": "AI-powered urban energy monitoring, transformer telemetry, predictive load intelligence, and SCADA decision support for the Mira-Bhayandar municipal power grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
